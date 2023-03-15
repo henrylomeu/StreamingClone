@@ -8,7 +8,7 @@ O site é construído em cima do React, uma das bibliotecas JavaScript mais popu
 Para estilização do site, é utilizado o Styled Components, que permite criar estilos CSS dentro dos próprios componentes React.
 
 <h1> :computer: Tecnologias</h1>
-- Utilizei a API do TMDB para mostrar informações como cartaz, título, descrição e gênero dos filmes e séries
+- Utilizei a API do TMDB para mostrar informações como cartaz, título, descrição e gênero dos filmes e séries</br>
 - ReactJS </br>
 - Typescript </br>
 - Styled-Components
